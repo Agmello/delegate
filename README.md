@@ -1,0 +1,2 @@
+# delegate
+C++ delegate
